@@ -63,6 +63,11 @@ function Telegram() {
     window.open('https://t.me/ThanhDieuChannel', 'ultimate')},
   100);
 }
+function Tiktok() {
+  setTimeout(function() {
+    window.open('https://www.tiktok.com/@nvnhnm', 'ultimate')},
+  100);
+}
 
 function DarkMode() {
   var element = document.body;
